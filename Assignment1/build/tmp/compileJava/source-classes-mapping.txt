@@ -1,0 +1,125 @@
+model/builder/ClientBuilder.java
+ model.builder.ClientBuilder
+controller/LoginController.java
+ controller.LoginController
+ controller.LoginController$LoginButtonListener
+ controller.LoginController$RegisterButtonListener
+repository/client/ClientRepository.java
+ repository.client.ClientRepository
+view/LoginView.java
+ view.LoginView
+view/AdminView.java
+ view.AdminView
+repository/activity/ActivityRepository.java
+ repository.activity.ActivityRepository
+repository/Cache.java
+ repository.Cache
+util/ConfirmBox.java
+ util.ConfirmBox
+database/JDBConnectionWrapper.java
+ database.JDBConnectionWrapper
+model/validator/ResultFetchException.java
+ model.validator.ResultFetchException
+model/User.java
+ model.User
+DTO/AccountDTO.java
+ DTO.AccountDTO
+model/Account.java
+ model.Account
+repository/EntityNotFoundException.java
+ repository.EntityNotFoundException
+util/AlertBox.java
+ util.AlertBox
+model/Client.java
+ model.Client
+DTO/ClientDTO.java
+ DTO.ClientDTO
+DTO/UserDTO.java
+ DTO.UserDTO
+model/builder/UserBuilder.java
+ model.builder.UserBuilder
+model/Activity.java
+ model.Activity
+database/Constants.java
+ database.Constants
+ database.Constants$Schemas
+ database.Constants$Tables
+model/validator/Notification.java
+ model.validator.Notification
+service/user/AuthenticationService.java
+ service.user.AuthenticationService
+model/validator/UserValidator.java
+ model.validator.UserValidator
+DTO/fxml/AccountFXML.java
+ DTO.fxml.AccountFXML
+repository/client/ClientRepositoryImplementation.java
+ repository.client.ClientRepositoryImplementation
+model/builder/ActivityBuilder.java
+ model.builder.ActivityBuilder
+DTO/fxml/UserFXML.java
+ DTO.fxml.UserFXML
+model/builder/AccountBuilder.java
+ model.builder.AccountBuilder
+DTO/fxml/ClientFXML.java
+ DTO.fxml.ClientFXML
+service/user/AuthenticationServiceMySQL.java
+ service.user.AuthenticationServiceMySQL
+controller/ActuallyController/AdminActuallyController.java
+ controller.ActuallyController.AdminActuallyController
+ controller.ActuallyController.AdminActuallyController$CreateButtonOnAction
+ controller.ActuallyController.AdminActuallyController$DeleteButtonOnAction
+ controller.ActuallyController.AdminActuallyController$GenerateButtonOnAction
+ controller.ActuallyController.AdminActuallyController$LogoutButtonOnAction
+ controller.ActuallyController.AdminActuallyController$UpdateButtonOnAction
+launcher/Launcher.java
+ launcher.Launcher
+service/account/AccountServiceImplementation.java
+ service.account.AccountServiceImplementation
+service/client/ClientServiceImplementation.java
+ service.client.ClientServiceImplementation
+controller/LoginFXView.java
+ controller.LoginFXView
+repository/user/UserRepositoryMySQL.java
+ repository.user.UserRepositoryMySQL
+database/DBConnectionFactory.java
+ database.DBConnectionFactory
+controller/ActuallyController/UserAcctuallyController.java
+ controller.ActuallyController.UserAcctuallyController
+ controller.ActuallyController.UserAcctuallyController$AddClientOnAction
+ controller.ActuallyController.UserAcctuallyController$CreateAccountOnAction
+ controller.ActuallyController.UserAcctuallyController$DeleteAccountOnAction
+ controller.ActuallyController.UserAcctuallyController$LogoutButtonOnAction
+ controller.ActuallyController.UserAcctuallyController$TransferButtonOnAction
+ controller.ActuallyController.UserAcctuallyController$UpdateAccountOnAction
+ controller.ActuallyController.UserAcctuallyController$UpdateClientOnAction
+repository/account/AccountRepository.java
+ repository.account.AccountRepository
+service/activity/ActivityServiceImplementation.java
+ service.activity.ActivityServiceImplementation
+service/account/AccountService.java
+ service.account.AccountService
+controller/AdminFXView.java
+ controller.AdminFXView
+service/user/UserService.java
+ service.user.UserService
+service/activity/ActivityService.java
+ service.activity.ActivityService
+controller/UserFXView.java
+ controller.UserFXView
+repository/user/UserRepository.java
+ repository.user.UserRepository
+repository/account/AccountRepositoryImplementation.java
+ repository.account.AccountRepositoryImplementation
+repository/activity/ActivityRepositoryImplementation.java
+ repository.activity.ActivityRepositoryImplementation
+controller/ActuallyController/LoginActuallyController.java
+ controller.ActuallyController.LoginActuallyController
+ controller.ActuallyController.LoginActuallyController$LoginButtonOnAction
+service/client/ClientService.java
+ service.client.ClientService
+service/user/UserServiceImplementation.java
+ service.user.UserServiceImplementation
+DTO/ActivityDTO.java
+ DTO.ActivityDTO
+launcher/ComponentFactory.java
+ launcher.ComponentFactory
